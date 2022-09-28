@@ -167,7 +167,7 @@ onMounted(() => {
         color="#000"
         i-carbon-logo-github
         rel="noreferrer"
-        href="https://github.com/summer-is-hot/cow_and_cow"
+        href="https://github.com/summmer-is-hot/cow_and_cow"
         target="_blank"
         title="GitHub"
       />
